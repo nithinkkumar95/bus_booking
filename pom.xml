@@ -24,7 +24,7 @@
     </repositories>         
     <distributionManagement>
               <repository>
-				 <id>central</id>
+				 <id>bus_booking-libs-release</id>
 				 <name>a0xvkm4ip05du-artifactory-primary-0-releases</name>
 				 <url>https://trialqaqb4f.jfrog.io/artifactory/bus_booking-libs-release</url>
               </repository>
